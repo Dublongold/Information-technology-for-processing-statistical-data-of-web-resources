@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499011425283",
+    "project_id": "infotechforprocstatidataofwebr",
+    "storage_bucket": "infotechforprocstatidataofwebr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499011425283:android:7e2a9d620158d2f0896a36",
+        "android_client_info": {
+          "package_name": "com.study.infotechforprocstatidataofwebres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4UwAFxaDxAs_-hushYFWc-0gPGFK_ATU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

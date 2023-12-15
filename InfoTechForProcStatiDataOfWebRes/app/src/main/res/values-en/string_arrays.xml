@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_buttons">
+        <item>General</item>
+        <item>Meta</item>
+        <item>Images</item>
+        <item>Styles</item>
+        <item>Scripts</item>
+        <item>Number of tags</item>
+    </string-array>
+</resources>

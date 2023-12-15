@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">
+        Information technology for processing statistical data of web resources
+    </string>
+    <string name="get_data">Get %s</string>
+    <string name="press_again_to_exit">Press again to exit.</string>
+    <string name="your_url">Your url:\n\t\"%s\"</string>
+    <string name="your_url_placeholder">Your url…</string>
+    <string name="your_url_label">Your url:</string>
+    <string name="loading">Loading…</string>
+    <string name="invalid_tags">
+        You have entered invalid tags. Please, ensure that tags do not contain spaces
+        and are separated by commas.
+    </string>
+    <string name="tag_quantity">Tag: %s, count: %d.</string>
+    <string name="bad_response">Bad response. Code: %d, message: \"%s\".</string>
+    <string name="empty_body">Sorry, but response body is empty.</string>
+    <string name="get_quantity_tags">Get quantity tags</string>
+    <string name="invalid_url">
+        Sorry, but the Url is invalid. It must contain at least \"http\", \':\' and \'/\'.
+    </string>
+
+    <string name="style_link">Link: %s</string>
+    <string name="style_content">Content: %s</string>
+    <string name="more">More</string>
+    <string name="less">Less</string>
+    <string name="content_and_more">%s… (and %d more characters)</string>
+
+    <string name="navigation">Navigation</string>
+
+    <string name="welcome_text">Welcome!
+        \nGlad to see you in my application.
+        \nIt will help you get statistical data from web resources.
+    </string>
+    <string name="slide_in_menu_title">What information do you want to receive?</string>
+    <string name="tags_label">Tags:</string>
+    <string name="tags_placeholder">Tags…</string>
+    <string name="failed_to_load_image">[Failed to load image… Reason: \"%s\"]</string>
+    <string name="unknown_reason">Unknown…</string>
+    <string name="no_description">[No description…]</string>
+    <string name="too_long_to_respond">
+        For some reason the server takes too long to respond…
+        \nIt is possible that if you try to receive the data again, the server will respond.
+    </string>
+    <string name="general_info_content">Title: %s\n\nDescription: %s</string>
+</resources>

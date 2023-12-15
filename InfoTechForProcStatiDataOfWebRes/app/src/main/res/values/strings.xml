@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+        Інформаційна технологія для обробки статистичних даних
+    </string>
+    <string name="get_data">Отримати %s</string>
+    <string name="press_again_to_exit">Натисніть знову щоб вийти</string>
+    <string name="your_url">Ваше посилання:\n\t\"%s\"</string>
+    <string name="your_url_placeholder">Ваше посилання…</string>
+    <string name="your_url_label">Ваше посилання:</string>
+    <string name="loading">Завантаження…</string>
+    <string name="invalid_tags">
+        Ви ввели неправильні теги. Будь-ласка, перевірте, щоб теги не містили символів пробілу і
+        були розділені комами.
+    </string>
+    <string name="tag_quantity">Тег: %s, кількість: %d.</string>
+    <string name="bad_response">Невдалий запит. Код: %d, повідомлення: \"%s\".</string>
+    <string name="empty_body">Вибачте, але тіло відповіді пусте.</string>
+    <string name="get_quantity_tags">Отримати кількість тегів</string>
+    <string name="invalid_url">
+        Вибачте, але посилання неправильне. Воно має містити хоча б \"http\", \':\' та \'/\'.
+    </string>
+
+    <string name="style_link">Посилання: %s</string>
+    <string name="style_content">Вміст: %s</string>
+    <string name="more">Більше</string>
+    <string name="less">Менше</string>
+    <string name="content_and_more">%s… (та ще %d символів)</string>
+
+    <string name="navigation">Навігація</string>
+
+    <string name="welcome_text">Вітаю!
+        \nРадий бачити вас в моєму додатку.
+        \nВін допоможе вам отримати статистичні дані з веб ресурсів.
+    </string>
+    <string name="slide_in_menu_title">Яку інформацію бажаєте отримати?</string>
+    <string name="tags_label">Теги:</string>
+    <string name="tags_placeholder">Теги…</string>
+    <string name="failed_to_load_image">[Не вдалося завантажити зображення… Причина: \"%s\"]</string>
+    <string name="unknown_reason">Невідома…</string>
+    <string name="no_description">[Немає опису…]</string>
+    <string name="too_long_to_respond">
+        Через невідомі причини, сервер дуже довго не відповідає…
+        \nМожливо, якщо ви спробуєте отримати дані ще раз, сервер відповість.
+    </string>
+    <string name="general_info_content">Титулка: %s\n\nОпис: %s</string>
+</resources>

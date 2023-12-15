@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_buttons">
+        <item>Загальна</item>
+        <item>Мета дані</item>
+        <item>Зображення</item>
+        <item>Cтилі</item>
+        <item>Cкрипти</item>
+        <item>Кількість тегів</item>
+    </string-array>
+    <string-array name="receive_button_sub_names">
+        <item>загальну інформацію</item>
+        <item>мета дані</item>
+        <item>зображення</item>
+        <item>стилі</item>
+        <item>скрипти</item>
+        <item>кількість тегів</item>
+    </string-array>
+</resources>
